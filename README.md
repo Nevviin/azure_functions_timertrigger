@@ -6,6 +6,8 @@ azure functions timer triggered example which writes into a txt file every time 
 
 ### 1,  Create a new project from VisualStudio and select azure function template and select timer trigger option  
 
+### or 
+
 ### 2, Clone this repo 
 
 ### Below Changes are  done to execute this locally
